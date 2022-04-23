@@ -6,9 +6,6 @@ hi bhai
 
   jab tak bhai (chota_shakeel < dawood_bhai) {
     bol bhai "Dawood hai Mum-bhai ka don!";
-
-
-
     chota_shakeel += 1;
   }
 
